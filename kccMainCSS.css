@@ -1,0 +1,19 @@
+.topNav{
+    background-color: #008037;
+    height: 80px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    float:none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f8efe8;
+}
+
+.topNav a:hover {
+    background:#52a62d;
+    color: black;
+    font-size: large;
+}
+
+
