@@ -16,4 +16,27 @@
     font-size: large;
 }
 
+.img{
+    max-width: 100%;
+    height:auto;
+}
+
+.bottomNav{
+    background-color: #008037;
+    height: 80px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position:fixed;
+    float:none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f8efe8; 
+}
+
+.bottomNav a:hover {
+    background:#52a62d;
+    color: black;
+    font-size: large;
+}
+
 
